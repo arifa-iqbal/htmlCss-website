@@ -448,7 +448,6 @@ span i:hover {
   }
   .our-company-content h5 {
     word-spacing: 1px;
-    letter-spacing: 0.8px;
   }
   .our-company-content p {
     word-spacing: 1px;
@@ -467,9 +466,6 @@ span i:hover {
   }
   .our-company-content h2 {
     font-size: 26px;
-    word-spacing: 0px;
-    letter-spacing: 0px;
-    line-height: 0;
   }
   .our-company-content h5 {
     word-spacing: 0px;
